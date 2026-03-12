@@ -1,3 +1,2 @@
 # sinuosity
-code of sinuosity
-I will release the code after the paper is published.
+code of Climate-Driven Straightening of Western North Pacific Tropical Cyclone Trajectories
